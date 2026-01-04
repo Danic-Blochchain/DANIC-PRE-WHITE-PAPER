@@ -177,7 +177,7 @@ All components, timelines, and features are subject to change.
 
 ## Links
 
-- Website: https://glovaldanic.com  
+- Website: https://globaldanic.com  
 - Full Whitepaper: Coming Soon   
 
 
